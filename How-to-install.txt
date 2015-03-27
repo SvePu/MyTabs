@@ -1,0 +1,22 @@
+===================================================================================================================
+
+1) Upload both the admin and inc folder to your forums directory and activate the MyTabs plugin on your board.
+* Note: If you have a custom admin folder, rename the folder to your custom admin folder name before uploading.
+
+2) Go to ACP->Forums & Posts->MyTabs and add/edit tabs/settings to fit your needs.
+
+3) Go to your index page to see results :)
+
+4) You can set custom styles via the tab settings or the overall settings (default).
+
+5) Enjoy the forum tabs!
+
+===================================================================================================================
+
+Created by Ethan DeLong
+
+If you like Pokemon, visit http://www.pokemonforum.org
+
+Thank you for your support!
+
+===================================================================================================================
